@@ -18,7 +18,7 @@ Product.create!(title: 'Programming Ruby 1.9 & 2.0',
         out there. If you need to get working programs delivered fast,
         you should add Ruby to your toolbox.
       </p>},
-  img_url: 'public/images/ruby.jpg',
+  img_url: 'ruby22.jpg',
   price: 49.95)
 # . . .
 
